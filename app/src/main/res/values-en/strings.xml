@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="diameter">Diameter</string>
+    <string name="price">Price</string>
+    <string name="area">Area</string>
+    <string name="unit_price">Unit price</string>
+    <string name="calculate">calculate</string>
+    <string name="app_name" translatable="false">Pizza Price Comparator</string>
+    <string name="toast">Fill in the blanks</string>
+    <string name="zero">Enter a higher value than zero</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">"ピザの価格比較 "</string>
+    <string name="diameter">直径</string>
+    <string name="price">价格</string>
+    <string name="area">表面积</string>
+    <string name="unit_price">单位价格</string>
+    <string name="calculate">计算</string>
+    <string name="toast">填空</string>
+    <string name="zero">输入一个比零更高的值</string>
+</resources>

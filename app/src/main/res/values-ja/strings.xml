@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">"ピザの価格比較 "</string>
+    <string name="diameter">直径</string>
+    <string name="price">価格</string>
+    <string name="area">表面積</string>
+    <string name="unit_price">単価</string>
+    <string name="calculate">割り出す</string>
+    <string name="toast">空欄を埋める</string>
+    <string name="zero">ゼロより大きい値を入力してください</string>
+</resources>

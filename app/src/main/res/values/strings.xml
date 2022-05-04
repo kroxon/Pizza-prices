@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name" translatable="true">Pizza vs pizza</string>
+
+    <string-array name="currencies">
+        <item>EUR</item>
+        <item>USD</item>
+        <item>PLN</item>
+        <item>JPY</item>
+        <item>GBP</item>
+        <item>AUD</item>
+        <item>CAD</item>
+        <item>CHF</item>
+        <item>UAH</item>
+        <item>CNY</item>
+        <item>HKD</item>
+        <item>NZD</item>
+        <item>SEK</item>
+        <item>KRW</item>
+        <item>SGD</item>
+        <item>NOK</item>
+        <item>MXN</item>
+        <item>INR</item>
+        <item>RUB</item>
+        <item>ZAR</item>
+        <item>TRY</item>
+        <item>BRL</item>
+        <item>TWD</item>
+        <item>DKK</item>
+        <item>THB</item>
+        <item>IDR</item>
+        <item>HUF</item>
+        <item>CZK</item>
+        <item>ILS</item>
+        <item>CLP</item>
+        <item>PHP</item>
+        <item>AED</item>
+        <item>COP</item>
+        <item>SAR</item>
+        <item>MYR</item>
+        <item>RON</item>
+<!--        <item>local</item>-->
+    </string-array>
+
+    <string-array name="units">
+        <item>cm</item>
+        <item>m</item>
+        <item>dm</item>
+        <item>ich</item>
+        <item>foot</item>
+        <item>yard</item>
+    </string-array>
+
+    <string name="hint_dimension" translatable="false"><i>32</i></string>
+    <string name="hint_dimension2" translatable="false"><i>28</i></string>
+    <string name="hint_dimension3" translatable="false"><i>45</i></string>
+    <string name="hint_price" translatable="false"><i>23</i></string>
+    <string name="hint_price2" translatable="false"><i>29.5</i></string>
+    <string name="hint_price3" translatable="false"><i>35</i></string>
+
+    <string name="diameter">Diameter</string>
+    <string name="price">Price</string>
+    <string name="area">Area</string>
+    <string name="unit_price">Unit price</string>
+    <string name="calculate">calculate</string>
+
+    <string name="toast">Fill in the blanks</string>
+    <string name="zero">Enter a higher value than zero</string>
+
+</resources>

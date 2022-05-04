@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Система сравнения цен на пиццу</string>
+    <string name="diameter">Диаметр</string>
+    <string name="price">Цена</string>
+    <string name="area">Площадь поверхности</string>
+    <string name="unit_price">Цена за единицу</string>
+    <string name="calculate">рассчитать</string>
+    <string name="toast">Заполните пробелы</string>
+    <string name="zero">Введите значение больше нуля</string>
+</resources>

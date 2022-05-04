@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Porovnanie cien pizze</string>
+    <string name="diameter">Priemer</string>
+    <string name="price">cena</string>
+    <string name="area">Povrch</string>
+    <string name="unit_price">jednotková cena</string>
+    <string name="calculate">"vypočítať "</string>
+    <string name="toast">Vyplňte prázdne políčka</string>
+    <string name="zero">Zadajte vyššiu hodnotu ako nula</string>
+</resources>

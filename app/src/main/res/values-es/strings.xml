@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="calculate">calcular</string>
+    <string name="unit_price">Precio por unidad</string>
+    <string name="area">Superficie</string>
+    <string name="diameter">Diámetro</string>
+    <string name="price">Precio</string>
+    <string name="app_name" translatable="false">Comparador de precios de pizzas</string>
+    <string name="toast">Rellena los espacios en blanco</string>
+    <string name="zero">Introduzca un valor superior a cero</string>
+</resources>

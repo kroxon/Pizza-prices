@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">피자 가격 비교</string>
+    <string name="diameter">지름</string>
+    <string name="price">가격</string>
+    <string name="area">표면</string>
+    <string name="unit_price">단가</string>
+    <string name="calculate">"계산하다 "</string>
+    <string name="toast">빈칸을 채우다</string>
+    <string name="zero">0보다 큰 값을 입력하세요.</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Порівняння цін на піцу Діаметр ціна Поверхня ціна за одиницю обчислити</string>
+    <string name="diameter">Діаметр</string>
+    <string name="price">ціна</string>
+    <string name="area">Поверхня</string>
+    <string name="unit_price">ціна за одиницю</string>
+    <string name="calculate">"обчислити "</string>
+    <string name="toast">заповнити пропущені місця</string>
+    <string name="zero">Введіть значення більше нуля</string>
+</resources>

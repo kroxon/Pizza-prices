@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="diameter">Średnica</string>
+    <string name="price">Cena</string>
+    <string name="area">Powierzchnia</string>
+    <string name="unit_price">Cena jednostkowa</string>
+    <string name="calculate">oblicz</string>
+    <string name="app_name" translatable="false">Porównywarka cen pizzy</string>
+    <string name="toast">Uzupełnij puste pola</string>
+    <string name="zero">Wprowadź wyższą wartość od zera</string>
+</resources>

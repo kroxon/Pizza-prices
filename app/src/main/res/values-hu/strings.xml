@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pizza vs pizza</string>
+    <string name="diameter">Átmérő</string>
+    <string name="price">Ár</string>
+    <string name="area">Felület</string>
+    <string name="unit_price">Egységár</string>
+    <string name="calculate">kiszámítása</string>
+    <string name="toast">Töltse ki az üres helyeket</string>
+    <string name="zero">Adjon meg egy nullánál nagyobb értéket</string>
+</resources>
