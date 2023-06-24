@@ -21,8 +21,6 @@ The app remembers the units of measurement and currency selected by the user.
 ## 📃 License
 
 ```
-Copyright 2018 Igor Escodro
-
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
 You may obtain a copy of the License at
